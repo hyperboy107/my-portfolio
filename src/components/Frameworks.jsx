@@ -14,7 +14,6 @@ export function Frameworks() {
     "react",
     "sql",
     "tailwindcss",
-    "shadcn",
     "nextjs",
     "postman",
     "vitejs",

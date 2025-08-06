@@ -77,7 +77,7 @@ export const mySocials = [
   },
   {
     name: "Instagram",
-    href: "",
+    href: "https://www.instagram.com/1x_hsejar_1x/?utm_source=ig_web_button_share_sheet",
     icon: "/assets/socials/instagram.svg",
   },
 ];
